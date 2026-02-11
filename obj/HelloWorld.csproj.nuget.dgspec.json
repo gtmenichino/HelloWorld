@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/HelloWorld.csproj": {}
+    "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld_worktree1/HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/HelloWorld.csproj": {
+    "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld_worktree1/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld_worktree1/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld_worktree1/HelloWorld.csproj",
         "packagesPath": "/home/gtmenichino/.nuget/packages/",
-        "outputPath": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/obj/",
+        "outputPath": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld_worktree1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gtmenichino/.nuget/NuGet/NuGet.Config"

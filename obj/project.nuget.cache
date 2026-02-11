@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ooG7/pGH4rA=",
+  "dgSpecHash": "HV1B+NGmvTQ=",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\gtmenichino\\code\\hello-codex-worktrees\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "/home/gtmenichino/code/hello-codex-worktrees/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
